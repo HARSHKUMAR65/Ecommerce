@@ -1,0 +1,730 @@
+{
+  "looks": [
+    {
+      "name": "Somewhere Else",
+      "foot": 0.0501,
+      "tags": [
+        [
+          52,
+          44
+        ],
+        [
+          80,
+          40
+        ],
+        [
+          44,
+          57
+        ]
+      ],
+      "subtotal": 142
+    },
+    {
+      "name": "Dial-Up",
+      "foot": 0.0501,
+      "tags": [
+        [
+          76,
+          45
+        ],
+        [
+          54,
+          68
+        ],
+        [
+          45,
+          87
+        ]
+      ],
+      "subtotal": 324
+    },
+    {
+      "name": "Long Walks",
+      "foot": 0.0656,
+      "tags": [
+        [
+          66,
+          47
+        ],
+        [
+          51,
+          64
+        ],
+        [
+          48,
+          87
+        ]
+      ],
+      "subtotal": 274
+    },
+    {
+      "name": "Low Battery",
+      "foot": 0.0582,
+      "tags": [
+        [
+          76,
+          47
+        ],
+        [
+          43,
+          70
+        ],
+        [
+          54,
+          88
+        ]
+      ],
+      "subtotal": 284
+    },
+    {
+      "name": "No Reply",
+      "foot": 0.065,
+      "tags": [
+        [
+          72,
+          41
+        ],
+        [
+          51,
+          68
+        ],
+        [
+          45,
+          89
+        ]
+      ],
+      "subtotal": 358
+    },
+    {
+      "name": "Analog",
+      "foot": 0.047,
+      "tags": [
+        [
+          75,
+          45
+        ],
+        [
+          51,
+          70
+        ],
+        [
+          46,
+          88
+        ]
+      ],
+      "subtotal": 400
+    },
+    {
+      "name": "Rewind",
+      "foot": 0.0377,
+      "tags": [
+        [
+          69,
+          43
+        ],
+        [
+          51,
+          72
+        ],
+        [
+          56,
+          92
+        ]
+      ],
+      "subtotal": 296
+    },
+    {
+      "name": "Out Of Office",
+      "foot": 0.0891,
+      "tags": [
+        [
+          65,
+          47
+        ],
+        [
+          43,
+          68
+        ],
+        [
+          60,
+          86
+        ]
+      ],
+      "subtotal": 206
+    },
+    {
+      "name": "Paper Maps",
+      "foot": 0.0588,
+      "tags": [
+        [
+          66,
+          41
+        ],
+        [
+          48,
+          72
+        ],
+        [
+          56,
+          88
+        ]
+      ],
+      "subtotal": 294
+    }
+  ],
+  "products": [
+    {
+      "id": "l1p1",
+      "name": "Ribbed Tank Top",
+      "kind": "Top",
+      "priceCents": 3600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 0,
+      "pi": 0,
+      "look": "Somewhere Else",
+      "color": "White",
+      "swatch": "#f4f2ed",
+      "description": "The first layer of an unhurried day. A ribbed shape and a clean neckline that sits easily under an open shirt.",
+      "image": "/assets/products/l1p1.webp",
+      "model": "/assets/00.webp"
+    },
+    {
+      "id": "l1p2",
+      "name": "Striped Open Shirt",
+      "kind": "Top",
+      "priceCents": 7400,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 0,
+      "pi": 1,
+      "look": "Somewhere Else",
+      "color": "Blue stripe",
+      "swatch": "#a1b0c7",
+      "description": "A familiar stripe, a little more room. Wear it open over a tank or button it up and take the long way home.",
+      "image": "/assets/products/l1p2.webp",
+      "model": "/assets/00.webp"
+    },
+    {
+      "id": "l1p3",
+      "name": "Braided Belt",
+      "kind": "Accessory",
+      "priceCents": 3200,
+      "sizes": [
+        "One size"
+      ],
+      "li": 0,
+      "pi": 2,
+      "look": "Somewhere Else",
+      "color": "Brown",
+      "swatch": "#795d44",
+      "description": "A warm brown braid to bring the look together. The kind of small detail that does more than it says.",
+      "image": "/assets/products/l1p3.webp",
+      "model": "/assets/00.webp"
+    },
+    {
+      "id": "l2p1",
+      "name": "Corduroy Trucker",
+      "kind": "Outerwear",
+      "priceCents": 14200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 1,
+      "pi": 0,
+      "look": "Dial-Up",
+      "color": "Tobacco",
+      "swatch": "#947555",
+      "description": "A trucker silhouette with a softer point of view. Tobacco corduroy brings a little texture to an otherwise quiet day.",
+      "image": "/assets/products/l2p1.webp",
+      "model": "/assets/01.webp"
+    },
+    {
+      "id": "l2p2",
+      "name": "Pleated Shorts",
+      "kind": "Bottom",
+      "priceCents": 6400,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 1,
+      "pi": 1,
+      "look": "Dial-Up",
+      "color": "Olive",
+      "swatch": "#62664e",
+      "description": "A pleated shape with room to move. Pair the olive tone with a white tank, an easy shirt, or whatever the day calls for.",
+      "image": "/assets/products/l2p2.webp",
+      "model": "/assets/01.webp"
+    },
+    {
+      "id": "l2p3",
+      "name": "Suede Moccasin",
+      "kind": "Shoes",
+      "priceCents": 11800,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 1,
+      "pi": 2,
+      "look": "Dial-Up",
+      "color": "Tobacco",
+      "swatch": "#7a5b43",
+      "description": "A low-key finish in warm suede tones. An easy companion to the shorts, and a reason to leave the house.",
+      "image": "/assets/products/l2p3.webp",
+      "model": "/assets/01.webp"
+    },
+    {
+      "id": "l3p1",
+      "name": "Polar Fleece Zip",
+      "kind": "Top",
+      "priceCents": 9200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 2,
+      "pi": 0,
+      "look": "Long Walks",
+      "color": "Lilac",
+      "swatch": "#ada0bf",
+      "description": "A little lilac, a little escape. Zip it up, leave the day open, and take a different route.",
+      "image": "/assets/products/l3p1.webp",
+      "model": "/assets/02.webp"
+    },
+    {
+      "id": "l3p2",
+      "name": "Nylon Hike Shorts",
+      "kind": "Bottom",
+      "priceCents": 5800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 2,
+      "pi": 1,
+      "look": "Long Walks",
+      "color": "Black",
+      "swatch": "#272727",
+      "description": "The pared-back half of the Long Walks look. Black nylon, a simple silhouette, and nothing extra to think about.",
+      "image": "/assets/products/l3p2.webp",
+      "model": "/assets/02.webp"
+    },
+    {
+      "id": "l3p3",
+      "name": "Mesh Trainers",
+      "kind": "Shoes",
+      "priceCents": 12400,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 2,
+      "pi": 2,
+      "look": "Long Walks",
+      "color": "Grey",
+      "swatch": "#a0a29f",
+      "description": "A mesh finish and a grounded grey palette. Made for the visual rhythm of the Long Walks look.",
+      "image": "/assets/products/l3p3.webp",
+      "model": "/assets/02.webp"
+    },
+    {
+      "id": "l4p1",
+      "name": "Yellow Anorak Shell",
+      "kind": "Outerwear",
+      "priceCents": 12800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 3,
+      "pi": 0,
+      "look": "Low Battery",
+      "color": "Yellow",
+      "swatch": "#e0cb39",
+      "description": "A bright note on a low-battery day. The yellow anorak is the one layer that refuses to blend into the background.",
+      "image": "/assets/products/l4p1.webp",
+      "model": "/assets/03.webp"
+    },
+    {
+      "id": "l4p2",
+      "name": "Fleece Joggers",
+      "kind": "Bottom",
+      "priceCents": 7200,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 3,
+      "pi": 1,
+      "look": "Low Battery",
+      "color": "Grey",
+      "swatch": "#989a99",
+      "description": "The quiet balance to a brighter top. A grey jogger silhouette for taking everything at your own pace.",
+      "image": "/assets/products/l4p2.webp",
+      "model": "/assets/03.webp"
+    },
+    {
+      "id": "l4p3",
+      "name": "Chunky Sandals",
+      "kind": "Shoes",
+      "priceCents": 8400,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 3,
+      "pi": 2,
+      "look": "Low Battery",
+      "color": "Black",
+      "swatch": "#282828",
+      "description": "A strong, simple shape under an easy look. Black sandals that ground the yellow-and-grey pairing.",
+      "image": "/assets/products/l4p3.webp",
+      "model": "/assets/03.webp"
+    },
+    {
+      "id": "l5p1",
+      "name": "Navy Rollneck Knit",
+      "kind": "Top",
+      "priceCents": 11800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 4,
+      "pi": 0,
+      "look": "No Reply",
+      "color": "Navy",
+      "swatch": "#242b39",
+      "description": "A navy rollneck with a quietly self-contained feel. Keep the rest of the look simple and let the shape do the talking.",
+      "image": "/assets/products/l5p1.webp",
+      "model": "/assets/04.webp"
+    },
+    {
+      "id": "l5p2",
+      "name": "Wool Trousers",
+      "kind": "Bottom",
+      "priceCents": 10600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 4,
+      "pi": 1,
+      "look": "No Reply",
+      "color": "Charcoal",
+      "swatch": "#575751",
+      "description": "A considered trouser shape in charcoal tones. The natural counterpart to a deep navy knit.",
+      "image": "/assets/products/l5p2.webp",
+      "model": "/assets/04.webp"
+    },
+    {
+      "id": "l5p3",
+      "name": "Leather Mary Janes",
+      "kind": "Shoes",
+      "priceCents": 13400,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 4,
+      "pi": 2,
+      "look": "No Reply",
+      "color": "Black",
+      "swatch": "#292522",
+      "description": "A familiar Mary Jane silhouette with a little more character. An unexpected final note to a quiet outfit.",
+      "image": "/assets/products/l5p3.webp",
+      "model": "/assets/04.webp"
+    },
+    {
+      "id": "l6p1",
+      "name": "Corduroy Blazer",
+      "kind": "Outerwear",
+      "priceCents": 15600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 5,
+      "pi": 0,
+      "look": "Analog",
+      "color": "Brown",
+      "swatch": "#72614e",
+      "description": "A classic blazer viewed a little differently. Brown corduroy, an open attitude, and no appointment necessary.",
+      "image": "/assets/products/l6p1.webp",
+      "model": "/assets/05.webp"
+    },
+    {
+      "id": "l6p2",
+      "name": "Black Slim Jeans",
+      "kind": "Bottom",
+      "priceCents": 9800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 5,
+      "pi": 1,
+      "look": "Analog",
+      "color": "Black",
+      "swatch": "#252525",
+      "description": "A narrow black silhouette that gives the textured blazer a clean foundation. Keep the rest easy.",
+      "image": "/assets/products/l6p2.webp",
+      "model": "/assets/05.webp"
+    },
+    {
+      "id": "l6p3",
+      "name": "Desert Boots",
+      "kind": "Shoes",
+      "priceCents": 14600,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 5,
+      "pi": 2,
+      "look": "Analog",
+      "color": "Sand",
+      "swatch": "#a18b70",
+      "description": "Sand-toned boots to finish the Analog look. An understated choice for going somewhere without much of a plan.",
+      "image": "/assets/products/l6p3.webp",
+      "model": "/assets/05.webp"
+    },
+    {
+      "id": "l7p1",
+      "name": "Faded Black Hoodie",
+      "kind": "Top",
+      "priceCents": 8600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 6,
+      "pi": 0,
+      "look": "Rewind",
+      "color": "Faded black",
+      "swatch": "#444440",
+      "description": "An old-favourite mood in faded black. The hoodie you build a slow day around.",
+      "image": "/assets/products/l7p1.webp",
+      "model": "/assets/06.webp"
+    },
+    {
+      "id": "l7p2",
+      "name": "Carpenter Trousers",
+      "kind": "Bottom",
+      "priceCents": 9400,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 6,
+      "pi": 1,
+      "look": "Rewind",
+      "color": "Stone",
+      "swatch": "#b7b2a0",
+      "description": "A carpenter silhouette in a soft stone tone. A practical-looking counterpoint to the faded black hoodie.",
+      "image": "/assets/products/l7p2.webp",
+      "model": "/assets/06.webp"
+    },
+    {
+      "id": "l7p3",
+      "name": "Retro Court Sneaker",
+      "kind": "Shoes",
+      "priceCents": 11600,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 6,
+      "pi": 2,
+      "look": "Rewind",
+      "color": "White",
+      "swatch": "#e4e0d8",
+      "description": "A familiar court shape in a quiet palette. An easy finish to the Rewind look.",
+      "image": "/assets/products/l7p3.webp",
+      "model": "/assets/06.webp"
+    },
+    {
+      "id": "l8p1",
+      "name": "Linen Camp Shirt",
+      "kind": "Top",
+      "priceCents": 7600,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 7,
+      "pi": 0,
+      "look": "Out Of Office",
+      "color": "Sage",
+      "swatch": "#899484",
+      "description": "A sage camp shirt for closing the laptop and opening the day. Wear it loose, take your time, and go a little further.",
+      "image": "/assets/products/l8p1.webp",
+      "model": "/assets/07.webp"
+    },
+    {
+      "id": "l8p2",
+      "name": "Pleated Bermuda",
+      "kind": "Bottom",
+      "priceCents": 6800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 7,
+      "pi": 1,
+      "look": "Out Of Office",
+      "color": "Ecru",
+      "swatch": "#ddd8c8",
+      "description": "An ecru Bermuda shape with a considered pleat. Just enough structure for a day without a schedule.",
+      "image": "/assets/products/l8p2.webp",
+      "model": "/assets/07.webp"
+    },
+    {
+      "id": "l8p3",
+      "name": "Leather Slides",
+      "kind": "Shoes",
+      "priceCents": 6200,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 7,
+      "pi": 2,
+      "look": "Out Of Office",
+      "color": "Black",
+      "swatch": "#383630",
+      "description": "A simple black slide to complete an out-of-office state of mind. Less to think about on the way out.",
+      "image": "/assets/products/l8p3.webp",
+      "model": "/assets/07.webp"
+    },
+    {
+      "id": "l9p1",
+      "name": "Rugby Top",
+      "kind": "Top",
+      "priceCents": 8800,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 8,
+      "pi": 0,
+      "look": "Paper Maps",
+      "color": "Burgundy stripe",
+      "swatch": "#842e3c",
+      "description": "A burgundy stripe with a familiar, lived-in attitude. A little color for the days you take a different direction.",
+      "image": "/assets/products/l9p1.webp",
+      "model": "/assets/08.webp"
+    },
+    {
+      "id": "l9p2",
+      "name": "Tapered Khakis",
+      "kind": "Bottom",
+      "priceCents": 8400,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "li": 8,
+      "pi": 1,
+      "look": "Paper Maps",
+      "color": "Khaki",
+      "swatch": "#ae9d76",
+      "description": "A tapered khaki silhouette that keeps the rugby stripe in good company. An easy part of the everyday rotation.",
+      "image": "/assets/products/l9p2.webp",
+      "model": "/assets/08.webp"
+    },
+    {
+      "id": "l9p3",
+      "name": "Suede Low-Tops",
+      "kind": "Shoes",
+      "priceCents": 12200,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "li": 8,
+      "pi": 2,
+      "look": "Paper Maps",
+      "color": "Taupe",
+      "swatch": "#958677",
+      "description": "A quiet suede low-top to finish the Paper Maps look. Familiar from a distance, considered up close.",
+      "image": "/assets/products/l9p3.webp",
+      "model": "/assets/08.webp"
+    }
+  ]
+}
